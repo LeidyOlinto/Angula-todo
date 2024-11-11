@@ -9,7 +9,7 @@ import { InputComponent } from './components/input/input/input.component';
 import { DialogatualizartaskComponent } from './components/dialogatualizartask/dialogatualizartask.component';
 import { HoursPipe } from './pipes/hours.pipe'
 import { MaterialModule } from './modules/material/material.module';
-import { FormsModule,  } from '@angular/forms';
+import { FormsModule  } from '@angular/forms';
 
 @NgModule({
   declarations: [
